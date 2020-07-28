@@ -59,6 +59,7 @@ Enter Address  BB:AAAA 00:8004
 
 Ready
 ```
+If you see this then you have successfully time travelled back to the late 1970's.
 ## Rebuilding EhBASIC
 I've included a JAR file containing my Dev65 assembler, some include files defining the W65C265's registers and the batch file to rebuild the ROM if you make changes to it.
 
